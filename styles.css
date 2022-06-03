@@ -1,0 +1,142 @@
+
+body{
+
+  margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+text-align:center;
+font-family:  cursive;
+}
+h1{
+/* */
+color: #7858A6;
+margin-top: 0px;
+padding-top: 150px;
+}
+.top{
+  background-color:#A5BECC;
+
+}
+
+.middle{
+}
+.bottom{
+}
+.bottom_cloud{
+position:absolute;
+top: 200px;
+left:240px;
+}
+.top_cloud{
+  position: absolute;
+  top: 30px;
+  left: 730px;
+}
+.skill-row{
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+ width: 50%;
+ text-align:left;
+ line-height: 2;
+}
+.focus{
+  width: 25%;
+float: left;
+margin-right: 30px;
+}
+.observer{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.myimg{
+  margin-top: 30px;
+}
+.ft{
+  clear: right;
+}
+.ft{
+  clear: left;
+}
+hr{
+  color: grey;
+border: none;
+border-top: 2px dotted;
+border-width: 10px;
+height: 4px;
+width: 12%;
+}
+h2{
+  /* CO */
+  color:  #7858A6;;
+}
+h3{
+  color:  #7858A6;
+}
+.intro{
+  width: 20%;
+  margin: auto;
+}
+p{
+  line-height: 2;
+}
+.message{
+  width: 10%;
+  margin : auto;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #3BACB6;
+
+ margin-left: 16px;
+  margin-right: 16px;
+  padding: 18px 0px 10px;
+}
+.footer-link{
+  padding-left:18px;
+  padding-right: 18px;
+  color: #525E75;
+
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #F55353;
+}
+.cright{
+  color: #FAFDD6;
+  font-size: 0.75rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-bottom: 10px;
+
+}
